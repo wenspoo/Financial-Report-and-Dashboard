@@ -3,6 +3,7 @@ Developed a Financial Report and Dashboard using sample raw data.
 A Comprehensive Dashboard or Report that effectively communicates the financial and sales performance to the CFO. Ensures that the dashboard is intuitive and highlights actionable insights.
 
 Task Includes:
+
 1.Data Cleaning:
     Ensure that all data is accurate, consistent, and free of errors or duplicates.
     Address any missing or incomplete values appropriately.
